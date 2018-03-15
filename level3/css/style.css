@@ -25,3 +25,13 @@ html {
   float: left;
   margin-right: 8px;
 }
+
+.leaflet-bottom.leaflet-left{
+width: 85%;
+}
+.leaflet-control-container .leaflet-timeline-controls{
+box-sizing: border-box;
+width: 85%;
+margin: 0;
+margin-bottom: 15px;
+}
